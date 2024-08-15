@@ -1,2 +1,2 @@
 # alunos-django
-Atividade - Prática de view e templates
+Atividade - Prática de views e templates
